@@ -1,0 +1,42 @@
+create database dms;
+
+CREATE TABLE `carousel`(
+id INT(9) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+foto VARCHAR(250) NOT NULL,
+text_info VARCHAR(250) NULL,
+abouth_info VARCHAR(250) NULL
+);
+
+ALTER TABLE `dms`.`carousel` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+
+
+CREATE TABLE `upc_events`(
+id INT(9) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+short_name VARCHAR(250) NOT NULL,
+full_name TEXT(600) NOT NULL,
+foto VARCHAR(250) NULL,
+text_info TEXT NOT NULL,
+date_event VARCHAR(250) NULL
+);
+
+ALTER TABLE `dms`.`upc_events` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+
+
+CREATE TABLE `albums`(
+id INT(9) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+name TEXT(600) NOT NULL,
+logo VARCHAR(250) NOT NULL,
+folder_album TEXT NULL,
+info_album TEXT NULL,
+date_album VARCHAR(250) NULL
+);
+
+ALTER TABLE `dms`.`albums` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+
+
+ALTER TABLE `dms`.`photos` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+

@@ -1,0 +1,2 @@
+INSERT INTO dms.carousel (id, foto, text_info, abouth_info) VALUES (3, '1.jpg', 'текст инфо', 'о инфо');
+INSERT INTO dms.carousel (id, foto, text_info, abouth_info) VALUES (10, 'IMG_1356.JPG', 'цываыва', 'ппуукр');

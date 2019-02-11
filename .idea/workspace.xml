@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4c8b594-3269-460d-ada2-5f598e8aefee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="dms: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1764216480">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="activity_table" value="9" />
+          <entry key="albums" value="3" />
+          <entry key="carousel" value="2" />
+          <entry key="css" value="29" />
+          <entry key="htaccess" value="1" />
+          <entry key="html" value="17" />
+          <entry key="map" value="2" />
+          <entry key="md" value="2" />
+          <entry key="photos" value="4" />
+          <entry key="php" value="155" />
+          <entry key="sql" value="15" />
+          <entry key="txt" value="6" />
+          <entry key="upc_events" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="29" />
+          <entry key="Database Element" value="19" />
+          <entry key="HTML" value="17" />
+          <entry key="Markdown" value="2" />
+          <entry key="PHP" value="155" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="SQL" value="7" />
+          <entry key="Scratch" value="8" />
+          <entry key="SourceMap" value="2" />
+          <entry key="htaccess" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="196" />
+          <entry key="css" value="490" />
+          <entry key="html" value="1497" />
+          <entry key="md" value="250" />
+          <entry key="php" value="7575" />
+          <entry key="sql" value="384" />
+          <entry key="txt" value="642" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="490" />
+          <entry key="HTML" value="1576" />
+          <entry key="Markdown" value="250" />
+          <entry key="PHP" value="7496" />
+          <entry key="PLAIN_TEXT" value="642" />
+          <entry key="SQL" value="159" />
+          <entry key="Scratch" value="421" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/application/controllers/Main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="749">
+              <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/application/models/Dms.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/application/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-824">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@media (min-width: 992px)</find>
+      <find>.navbar-expand-lg .navbar-nav .nav-link</find>
+      <find>hr {</find>
+      <find>card-title</find>
+      <find>hr</find>
+      <find>mobile-center</find>
+      <find>prima</find>
+      <find>footer</find>
+      <find>card-deck</find>
+      <find>welco</find>
+      <find>wel</find>
+      <find>carousel-item</find>
+      <find>photos</find>
+      <find>box-as</find>
+      <find>box_aside</find>
+      <find>box_cnt__no-flow</find>
+      <find>.box</find>
+      <find>=&quot;images/</find>
+      <find>img-fluid</find>
+      <find>add_del_photo_id</find>
+      <find>удалено</find>
+      <find>get_albums</find>
+      <find>add_del_photos_album</find>
+      <find>get_photos</find>
+      <find>add_upc</find>
+      <find>brand_name</find>
+      <find>n ga</find>
+      <find>send</find>
+      <find>n ac</find>
+      <find>get_activity</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>=&quot;/images/</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/front/index.php" />
+        <option value="$PROJECT_DIR$/front/.htaccess" />
+        <option value="$PROJECT_DIR$/back/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/front/indexs.html" />
+        <option value="$PROJECT_DIR$/back/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/front/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/back/application/views/paneladmin/add_photo.php" />
+        <option value="3774b74b-0b92-4c82-a9d1-15a72f36ec64/schema/dms/table/activity_table.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3774b74b-0b92-4c82-a9d1-15a72f36ec64/console_1.sql" />
+        <option value="$PROJECT_DIR$/sql.txt" />
+        <option value="$USER_HOME$/Загрузки/dms.sql" />
+        <option value="$PROJECT_DIR$/../dms-mos/Транспорт_и_логистика.php" />
+        <option value="$PROJECT_DIR$/../dms-mos/Энергетика.php" />
+        <option value="$PROJECT_DIR$/back/application/views/paneladmin/add_del_photo_album.php" />
+        <option value="$PROJECT_DIR$/back/application/views/paneladmin/add_del_photo_id.php" />
+        <option value="$PROJECT_DIR$/back/application/views/paneladmin/add_upc_events.php" />
+        <option value="$PROJECT_DIR$/back/application/views/paneladmin/del_album.php" />
+        <option value="$PROJECT_DIR$/back/application/views/paneladmin/del_upc_events.php" />
+        <option value="$PROJECT_DIR$/back/application/views/paneladmin/add_del_carousel.php" />
+        <option value="$PROJECT_DIR$/back/application/controllers/Panel_admin_dms.php" />
+        <option value="$PROJECT_DIR$/back/application/views/paneladmin/add_album.php" />
+        <option value="$PROJECT_DIR$/back/application/config/database.php" />
+        <option value="$PROJECT_DIR$/back/application/views/gallery_view.php" />
+        <option value="$PROJECT_DIR$/back/application/views/photos_view.php" />
+        <option value="$PROJECT_DIR$/back/application/views/activity_view.php" />
+        <option value="$PROJECT_DIR$/back/application/views/activity_one_view.php" />
+        <option value="$PROJECT_DIR$/back/application/views/main_view.php" />
+        <option value="$PROJECT_DIR$/front/css/style.css" />
+        <option value="$PROJECT_DIR$/back/application/views/header.php" />
+        <option value="$PROJECT_DIR$/back/application/views/footer.php" />
+        <option value="$PROJECT_DIR$/back/application/models/Dms.php" />
+        <option value="$PROJECT_DIR$/back/application/controllers/Main.php" />
+        <option value="$PROJECT_DIR$/back/application/dmconfig.php" />
+        <option value="$PROJECT_DIR$/back/application/config/config.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3774b74b-0b92-4c82-a9d1-15a72f36ec64/console.sql" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="2530" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="paneladmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_dms-mos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_dms-mos" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/back/application/views/paneladmin" />
+      <recent name="$PROJECT_DIR$/back/application/views" />
+      <recent name="$PROJECT_DIR$/back/application/models" />
+      <recent name="$PROJECT_DIR$/back/application/controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4c8b594-3269-460d-ada2-5f598e8aefee" name="Default Changelist" comment="" />
+      <created>1542310316832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542310316832</updated>
+      <workItem from="1542310318215" duration="17944000" />
+      <workItem from="1542406143499" duration="1623000" />
+      <workItem from="1542484962833" duration="8117000" />
+      <workItem from="1542558484783" duration="16820000" />
+      <workItem from="1542626560399" duration="6000" />
+      <workItem from="1542986848994" duration="31698000" />
+      <workItem from="1544223591754" duration="3673000" />
+      <workItem from="1544271232102" duration="5942000" />
+      <workItem from="1544396500755" duration="15000" />
+      <workItem from="1544610144343" duration="800000" />
+      <workItem from="1549896533113" duration="1494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88132000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1920" height="1053" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15261473" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32975295" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.48223898" />
+      <window_info anchor="bottom" id="SQL Generator" order="13" weight="0.32975295" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.1339381" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/back/application/views/abouth_view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Загрузки/template/site/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/../dms-mos/Транспорт_и_логистика.php" />
+    <entry file="file://$PROJECT_DIR$/../dms-mos/Энергетика.php" />
+    <entry file="file://$USER_HOME$/Загрузки/dms.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3774b74b-0b92-4c82-a9d1-15a72f36ec64/console_1.sql" />
+    <entry file="file://$PROJECT_DIR$/front/css/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/css/bootstrap-reboot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/css/jquery.fancybox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="das://3774b74b-0b92-4c82-a9d1-15a72f36ec64/schema/dms/table/albums">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Загрузки/dms (1).sql" />
+    <entry file="file://$PROJECT_DIR$/back/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-415">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79" />
+      </provider>
+    </entry>
+    <entry file="das://3774b74b-0b92-4c82-a9d1-15a72f36ec64/schema/dms/table/upc_events">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dms-mos/down.html" />
+    <entry file="file://$PROJECT_DIR$/back/application/views/paneladmin/add_del_photo_id.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="134" selection-start-line="10" selection-start-column="134" selection-end-line="10" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/paneladmin/del_album.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="134" selection-start-line="10" selection-start-column="134" selection-end-line="10" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/paneladmin/del_upc_events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="134" selection-start-line="10" selection-start-column="134" selection-end-line="10" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3774b74b-0b92-4c82-a9d1-15a72f36ec64/schema/dms/table/carousel.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3774b74b-0b92-4c82-a9d1-15a72f36ec64/schema/dms/table/carousel">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3774b74b-0b92-4c82-a9d1-15a72f36ec64/schema/dms/table/photos">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dms-mos/index.php" />
+    <entry file="file://$PROJECT_DIR$/../dms-mos/center.html" />
+    <entry file="file://$PROJECT_DIR$/all.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="146" selection-start-line="149" selection-end-line="149" selection-end-column="456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dms-mos/centgal.html" />
+    <entry file="file://$PROJECT_DIR$/../dms-mos/left.html" />
+    <entry file="file://$PROJECT_DIR$/back/application/views/paneladmin/add_album.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/paneladmin/add_del_carousel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="21" column="70" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/paneladmin/add_del_photo_album.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/paneladmin/add_upc_events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="134" selection-start-line="10" selection-start-column="134" selection-end-line="10" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dms-mos/sendscript.html" />
+    <entry file="file://$PROJECT_DIR$/back/application/views/gallery_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/photos_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/activity_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/activity_one_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/main_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dms-mos/sendscript.php" />
+    <entry file="file://$PROJECT_DIR$/front/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="64" column="91" selection-start-line="64" selection-start-column="91" selection-end-line="64" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/controllers/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/models/Dms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/dmconfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3774b74b-0b92-4c82-a9d1-15a72f36ec64/schema/dms/table/activity_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3774b74b-0b92-4c82-a9d1-15a72f36ec64/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="80" column="22" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dms.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/controllers/Panel_admin_dms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-824">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
