@@ -6,6 +6,10 @@
 ### Admin Panel
     http://127.0.0.1/panel_admin_dms/add_upc_event
 
+### Settings
+* apache must use mod rewrite
+* root directory for apache - front (file index.php)
+
 ### Upload database for demo
 
     -- MySQL dump 10.13  Distrib 5.7.25, for Linux (x86_64)
